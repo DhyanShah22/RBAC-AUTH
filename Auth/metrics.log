@@ -1,0 +1,6 @@
+{"level":"info","message":{"duration":0.164,"method":"POST","route":"/signup","status_code":200},"timestamp":"2024-06-14T15:11:40.343Z"}
+{"level":"info","message":{"duration":0.001,"method":"POST","route":"/api/user/login","status_code":400},"timestamp":"2024-06-14T15:12:10.731Z"}
+{"level":"info","message":{"duration":0.094,"method":"POST","route":"/login","status_code":200},"timestamp":"2024-06-14T15:12:16.119Z"}
+{"level":"info","message":{"duration":0.003,"method":"GET","route":"/metrics","status_code":200},"timestamp":"2024-06-14T15:12:46.074Z"}
+{"level":"info","message":{"duration":0.002,"method":"GET","route":"/metrics","status_code":200},"timestamp":"2024-06-14T15:12:56.403Z"}
+{"level":"info","message":{"duration":0.003,"method":"GET","route":"/favicon.ico","status_code":404},"timestamp":"2024-06-14T15:12:56.511Z"}
